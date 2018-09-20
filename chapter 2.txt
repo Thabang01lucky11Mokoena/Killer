@@ -1,6 +1,2 @@
 greetings brother how are yuh doing
-no
-yes
-no
-ios
-fun
+commit->pull->push
