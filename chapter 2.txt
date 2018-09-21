@@ -1,3 +1,10 @@
 greetings brother how are yuh doing
 
 commit->pull->push
+
+gitbash when collaborating
+
+git add .
+git commit -m "commit"
+git pull
+git push
